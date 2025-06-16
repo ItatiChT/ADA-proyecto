@@ -13,4 +13,4 @@ let suma = parseFloat(numeroA + numeroB);
 // parseFloat permite sumar 4=4 y que el resultado sea 8, antes sin parsefloat el resultado seria 44
 //crea hay otras maneras de realizar esta suma como A+=B, pero me quede con la forma mas sencilla de solo usar el +
 console.log(`El resultado de la suma es: ${suma}`);
-//de nuevo, lo violeta el ${} lo recomienda el programa
+//de nuevo, lo violeta el ${} lo recomienda el programas
